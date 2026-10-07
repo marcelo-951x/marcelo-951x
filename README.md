@@ -24,7 +24,7 @@ Com bagagem prática em **Suporte Técnico de TI (Nível Júnior)**, desenvolvi 
 | **Linguagens de Programação** | `Python`, `R`, `SQL` |
 | **Análise e Manipulação de Dados** | `Pandas`, `NumPy` |
 | **Visualização de Dados & BI** | `Power BI`, `Matplotlib` |
-| **Ambientes de Desenvolvimento** | `Jupyter Notebook`, `VS Code` |
+| **Ambientes de Desenvolvimento** | `Jupyter Notebook` |
 | **Áreas de Foco** | Análise Exploratória de Dados (EDA), Big Data, Dados Abertos, Segurança da Informação, LGPD / Privacidade |
 
 ---
